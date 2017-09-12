@@ -1,2 +1,1 @@
-# hello-world
-First Github Repository
+Writing my first Hello-World repository on GitHub.
